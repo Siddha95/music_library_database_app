@@ -1,0 +1,20 @@
+<!-- file: views/index.erb -->
+
+<html>
+  <head></head>
+  <body>
+
+    <%= name .each do |name| %>
+    <p><%= name %><p>
+    <% end %>
+
+    <%= if @password == 'abcd' %>
+        Hello!
+    <%= else %>
+        Access denied
+      <%= end %>
+    <h1>Hello <%= name %> Welcome to my page</h1>
+
+    <img src="hello.jpg" />
+  </body>
+</html>
