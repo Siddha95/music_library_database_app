@@ -30,8 +30,8 @@ Technologies used:
 Clone the repository and run `bundle install` to install the dependencies within the folder:
 
 ```
-git clone https://github.com/EvSivtsova/music-library-database-app.git
-cd music-library-database-app
+git clone https://github.com/Mahasiddha95/music_library_database_app.git
+cd music_library_database_app
 bundle install
 ```
 
@@ -51,10 +51,7 @@ rackup
 ```
 Go to `http://localhost:9292/:route` to explore the routes.
 
-<img src='https://github.com/EvSivtsova/music-library-database-app/blob/main/outputs/artists-route.png' width=300px>
-<img src='https://github.com/EvSivtsova/music-library-database-app/blob/main/outputs/new-album-route.png' width=300px>
+ 
+ 
 
-View more outputs [here](https://github.com/EvSivtsova/music-library-database-app/tree/main/outputs).
-
-
-<img src='https://github.com/EvSivtsova/music-library-database-app/blob/main/outputs/music-library-database-test-coverage.png'>
+ 
